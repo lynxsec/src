@@ -1,0 +1,4 @@
+<?php
+const BOX_NAME = "ctf{ch4mber_0f_secrets_unv3iled}, use I_love_you_harry456 to move ahead";
+const BOX_AMOUNT = 1;
+const BOX_NAME_HASH = "0cb0e2ac2bd4a7975270f4de0886b7a083d9848112b22ba68361c317f5d88d2f";

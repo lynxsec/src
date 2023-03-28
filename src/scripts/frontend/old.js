@@ -7,7 +7,7 @@ const TYPES = [
     "Gingerbread",
     "Sandwichcookie",
     "Stroopwafel",
-    //"Flag" - only for admin
+    //"Flag" - only for voldemort
 ];
 
 function loadBoxes() {

@@ -2,9 +2,9 @@
 
 const BOXES_DIRECTORY = __DIR__ . "/../../../files/boxes/private";
 
-const SERVER_SIGNATURE = "i6os4rz2w8qaov8h6ejf2z8nqxhwshxbps4ci7s3aa7wf7jfh3zlfhfsuin0lo3n";
+const SERVER_SIGNATURE = "i6os4rz2w8qaov8h6ejf2z8a7hb4jcd5sjr3d7fnsrywf7jfh3zlfhfsuin0lo3n";
 
-const HASHING_ALGO = "sha256";
+const HASHING_ALGO = "sha384";
 
 function authenticate($name, $secret)
 {
