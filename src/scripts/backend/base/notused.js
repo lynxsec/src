@@ -1,4 +1,4 @@
-const SERVER_SIGNATURE = "----------------------------------------------------------------";
+const SERVER_SIGNATURE_NEW = "----------------------------------------------------------------";
 //moved to authenticate_hash
 
 const TYPES = [
